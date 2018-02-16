@@ -1,0 +1,30 @@
+.container {
+    margin:150px 150px 150px 150px;
+  }
+.leftDiv {
+    float:left;
+}
+.topColumnStyle {
+    width:500px;height:200px;border:1px solid #000;background-color:red;
+}
+.bottomColumnStyle {
+    width:500px;height:200px;border:1px solid #000;margin-top: 30px;background-color:red;
+}
+.rightDiv {
+    float:right;
+}
+.centerDiv {
+    width: 50%;height:50%;position: absolute;margin-top: 55px;margin-left:180px;background-color:white;border:1px solid #000;
+}
+.inputContainer {
+    margin-top:120px;
+}
+.inputStyle{
+    align-items:center;width: 100%;text-align:center;
+}
+.tableStyle{
+    display:-webkit-inline-box;
+}
+.buttonStyle{
+    margin-left: 115px
+}
